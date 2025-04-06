@@ -173,7 +173,7 @@ GICRE,General Insurance Corporation of India,EQ,25-OCT-2017,5,1,INE481Y01014,5,F
 GILLETTE,Gillette India Limited,EQ,30-JUL-2003,10,1,INE322A01010,10,Fast Moving Consumer Goods
 GLAND,Gland Pharma Limited,EQ,20-NOV-2020,1,1,INE068V01023,1,Healthcare
 GLAXO,GlaxoSmithKline Pharmaceuticals Limited,EQ,15-DEC-2000,10,1,INE159A01016,10,Healthcare
-GLS,Glenmark Life Sciences Limited,EQ,06-AUG-2021,2,1,INE03Q201024,2,Healthcare
+ALIVUS,Glenmark Life Sciences Limited,EQ,06-AUG-2021,2,1,INE03Q201024,2,Healthcare
 GLENMARK,Glenmark Pharmaceuticals Limited,EQ,07-FEB-2000,1,1,INE935A01035,1,Healthcare
 MEDANTA,Global Health Limited,EQ,16-NOV-2022,2,1,INE474Q01031,2,Healthcare
 GPIL,Godawari Power And Ispat limited,EQ,25-APR-2006,5,1,INE177H01021,5,Capital Goods
@@ -195,7 +195,7 @@ GPPL,Gujarat Pipavav Port Limited,EQ,09-SEP-2010,10,1,INE517F01014,10,Services
 GSFC,Gujarat State Fertilizers & Chemicals Limited,EQ,06-SEP-1995,2,1,INE026A01025,2,Chemicals
 GSPL,Gujarat State Petronet Limited,EQ,16-FEB-2006,10,1,INE246F01010,10,Oil Gas & Consumable Fuels
 HEG,HEG Limited,EQ,10-MAY-1995,10,1,INE545A01016,10,Capital Goods
-HBLPOWER,HBL Power Systems Limited,EQ,04-JAN-2007,1,1,INE292B01021,1,Automobile and Auto Components
+HBLENGINE,HBL Power Systems Limited,EQ,04-JAN-2007,1,1,INE292B01021,1,Automobile and Auto Components
 HCLTECH,HCL Technologies Limited,EQ,06-JAN-2000,2,1,INE860A01027,2,Information Technology
 HDFCAMC,HDFC Asset Management Company Limited,EQ,06-AUG-2018,5,1,INE127D01025,5,Financial Services
 HDFCBANK,HDFC Bank Limited,EQ,08-NOV-1995,1,1,INE040A01034,1,Financial Services
